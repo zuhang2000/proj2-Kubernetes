@@ -23,7 +23,7 @@ Project Description:
 * You can replicate my docker image through:
 * docker pull 644830037412.dkr.ecr.us-west-2.amazonaws.com/actix:latest
 * You can also pull the docker image from Dockerhub: docker pull zuhangxu/actixweb
-* After docker pull, you can run it through: docker run -it --rm -p 8080:8080 dockerimage
+* After docker pull, you can run it through: docker run -it --rm -p 8000:8000 dockerimage
 
 # Deploy
 * My First Deployment is done to be on Amazon App Runner. The URL is here: https://x3ch7xpk5j.us-west-2.awsapprunner.com/todolist/todos
