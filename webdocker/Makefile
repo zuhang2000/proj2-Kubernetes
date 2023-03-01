@@ -6,7 +6,7 @@ build:
 	docker build -t todo .
 
 rundocker:
-	docker run -it --rm -p 8080:8080 todo
+	docker run -it --rm -p 8000:8000 todo
 
 format:
 	cargo fmt --quiet
