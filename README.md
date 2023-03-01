@@ -31,7 +31,7 @@ Project Description:
 * Mini-Kubernetes:
 * Here is how I deploy it on Mini-Kubernetes.
 ![My Image](images/kube.jpg)
-* So you can successfully get the URL through: "minikube service minikube-todo --url". 
+* So you can successfully get the URL through: "minikube service minikube-todo --url". Here I'm demonstrating the home page of my program. After this step, you can do the similar things as what I describe in the "Features" part above. Then the browser can demonstrate the corresponding information.
 ![My Image](images/kuberes.jpg)
 
 
